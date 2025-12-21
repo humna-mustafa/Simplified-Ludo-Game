@@ -52,7 +52,7 @@ Welcome to the **Simplified Ludo Game**! This is a C++ console project for two p
 ---
 
 ## 👨‍💻 Authors
-- Your Name(s) Here
+- Humna Mustafa
 
 ---
 
