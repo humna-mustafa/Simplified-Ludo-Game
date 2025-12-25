@@ -1,6 +1,6 @@
 # 🎲 Simplified Ludo Game
 
-Welcome to the **Simplified Ludo Game**! This is a C++ console project for two players, created as a Programming Fundamentals project. Enjoy a classic board game experience with a modern, easy-to-understand codebase.
+This is a C++ console project for two players, created as a Programming Fundamentals project. Enjoy a classic board game experience with a modern, easy-to-understand codebase.
 
 ---
 
